@@ -4,3 +4,10 @@
 
 layout: home
 ---
+
+Willkommen! 
+
+# Startseite 
+
+{{ site.description }} 
+Warum wir das tun, kann man [hier](/about/) lesen.
