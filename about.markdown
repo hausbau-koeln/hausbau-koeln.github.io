@@ -1,18 +1,10 @@
 ---
 layout: page
-title: About
+title: Motivation
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Diese Internetseiten wurden mit dem Ziel erstellt, unseren privaten Hausbau für unsere Freunde und die Familie zugänglich zu machen. Zudem teilen wir diese privaten Informationen, um Erfahrungen mit anderen Bauherren auszutauschen und dadurch den maximalen Erfolg mit unserem Hausbau zu erreichen.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Es werden keinerlei wirtschaftliche Ziele verfolgt.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
