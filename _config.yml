@@ -21,8 +21,8 @@
 title: Bautagebuch | Hausbau im Süden Kölns mit Viebrockhaus
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Wir haben ein Grundstück gekauft und uns entschlossen, durch Viebrockhaus darauf ein Einfamilienhaus bauen zu lassen. Es handelt sich dabei um ein KfW-Effizienzhaus 40. In diesem Blog dokumentieren wir die Ereignisse rund um diesen Hausbau. 
-  Warum wir das tun, kann man [hier][about] lesen.
+  Wir haben ein Grundstück gekauft und uns entschlossen, durch Viebrockhaus darauf ein Einfamilienhaus bauen zu lassen. Es handelt sich dabei um ein KfW-Effizienzhaus 40. In diesem Blog dokumentieren wir die Ereignisse rund um diesen Hausbau.<br> 
+  Warum wir das tun, kann man [hier](/about/) lesen.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
