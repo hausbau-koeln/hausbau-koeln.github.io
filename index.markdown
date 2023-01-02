@@ -3,6 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+carousels:
+  - images: 
+    - image: /uploads/slider/image1.png
+    - image: /uploads/slider/image2.png
 ---
 
 Willkommen! 
