@@ -11,7 +11,7 @@ Der Vergleich sollte mindestens ein Architekturbüro, einen Generalunternehmer, 
 
 Für uns waren neben dem Preis u.a. auch Qualität, Geschwindigkeit, Kundenorientierung, Zeitbedarf wichtig. 
 
-Sowohl beim Architekten als auch bei Zaunmüller wurde uns eine Bauzeit von mindestens 14 Monaten genannt, Viebrockhaus nannte 11 bis 12 Monate. 
+Sowohl beim Architekten als auch bei Zaunmüller wurde uns eine Bauzeit von mindestens 14 Monaten genannt, Viebrockhaus nannte 10 bis 12 Monate. 
 
 Bei der Qualität hat man beim Architekten natürlich alle Freiheiten, je nach Zahlungsbereitschaft. Die Baumeister-Baubeschreibung, die bei Zaunmüller Qualitätstandards definiert, hat aus unserer Sicht einige Mankos - die man aber Nachverhandeln kann für das individuelle Projekt. 
 
