@@ -18,3 +18,5 @@ Danach folgten unzählige Skizzen mit Grundrissen, deren Version 1.1 lässt sich
 
 Version 1.0 enthielt noch einen Luftraum. Mit diesen ersten Skizzen und unserer, um Bauelemente und technische Ausstattung erweiterten Wunschliste besuchten wir einen Architekten. 
 Bei Dohmen Architekten wurden wir gut beraten und beauftragten daher die Ausarbeitung von Entwurfsskizzen. 
+
+Im weiteren Verlauf haben wir spätere Anpassungen [nach Beratung von Viebrockhaus]({% post_url 2022-10-15-Beratung-Viebrockhaus %}) vorgenommen. 

@@ -5,9 +5,9 @@ date:   2022-10-15 13:43:15 +0100
 categories: jekyll update
 ---
 
-Dies ist ein Platzhalter, Inhalt folgt
+*Dieser Text ist noch in Arbeit und wird laufend ergänzt! Letzte Änderung am {{ page.last_modified_at | date: '%d.%m.%Y' }}.*
 
-Frau Willems Vertriebsbüro Köln 
+Frau Willems Vertriebsbüro Köln, Frau T. Entwurfsarchitektin 
 
 Typenhäuser Grundrisse passten nicht, individuell geplant
 
@@ -15,17 +15,27 @@ Im Wesentlichen Bauteile und Module aus dem Katalogprogramm
 
 Gute Tipps für den Grundriss, Raffstores und AluClip Fenster
 
-Sonderwünsche 
+Mehr Wohnfläche als übliche Kataloghäuser daher passte die Dimensionierung der üblichen technischen Anlagen nicht
+
+Sonderwünsche Fenster bzgl. Höhe und Farbe (Einschub Fensterbemaßung)
+
+Erdreich-Sole-Luft-Wärmeüberträger zur Temperierung der Frischluft
+
+Schallschutz Innenraum, insbesondere Kinderzimmer 
 
 Ging 
 
+Wäscheschacht und Kalkschutzanlage
+
 Fenster: keine vier Flügel, aber Sonderhöhe ging 
 
-Größere Wärmepumpe 
+Größere Sole Erdwärmepumpe 
 
-Größere Lüftungsanlage (allerdings dann ohne Sensoren und ohne Luftbefeuchtung) 
+Größere Lüftungsanlage (allerdings dann ohne Luftreinigung, da Standardgerät nicht für höhere Luftvolumen geeignet) 
 
-Kalksandstein Innenwände für Schallschutz 
+Kalksandstein Innenwände und Vollspantüren für Schallschutz bei Kinderzimmern
+
+Höhe der Türen und der Garage
 
 Ging nicht 
 

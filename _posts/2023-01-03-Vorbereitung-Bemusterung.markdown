@@ -5,6 +5,12 @@ date:   2023-01-03 13:43:15 +0100
 categories: jekyll update
 ---
 
-Dies ist ein Platzhalter, Inhalt folgt
+*Dieser Text ist noch in Arbeit und wird laufend ergänzt! Letzte Änderung am {{ page.last_modified_at | date: '%d.%m.%Y' }}.* 
+
+- Innenarchitektion Frau L. von Viebrockhaus
 - Checkliste 
-- Gute Verbesserungsvorschläge
+- Gute Verbesserungsvorschläge 
+- Sonderwünsche in Bearbeitung 
+
+Küchenplan (Installationsplan)
+Böden
