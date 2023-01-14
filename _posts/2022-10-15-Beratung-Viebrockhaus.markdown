@@ -23,28 +23,24 @@ Erdreich-Sole-Luft-Wärmeüberträger zur Temperierung der Frischluft
 
 Schallschutz Innenraum, insbesondere Kinderzimmer 
 
+Sonderwünsche noch in Prüfung: 
+
+- Luftreinigung für größeres Luftvolumen 
+- Gründach für Garage mit geringer Aufbauhöhe (um unter 3m zu bleiben wg. Grenzabstand)
+
 Ging 
 
-Wäscheschacht und Kalkschutzanlage
-
-Fenster: keine vier Flügel, aber Sonderhöhe ging 
-
-Größere Sole Erdwärmepumpe 
-
-Größere Lüftungsanlage (allerdings dann ohne Luftreinigung, da Standardgerät nicht für höhere Luftvolumen geeignet) 
-
-Kalksandstein Innenwände und Vollspantüren für Schallschutz bei Kinderzimmern
-
-Höhe der Türen und der Garage
+- Wäscheschacht und Kalkschutzanlage
+- Fenster: keine vier Flügel, aber Sonderhöhe ging 
+- Größere Sole Erdwärmepumpe 
+- Größere Lüftungsanlage (allerdings dann ohne Luftreinigung, da Standardgerät nicht für höhere Luftvolumen geeignet) 
+- Kalksandstein Innenwände und Vollspantüren für Schallschutz bei Kinderzimmern
+- Höhe der Türen und der Garage
 
 Ging nicht 
 
-– Holz-Fenster (Viebrockhaus verbaut nur Kunststoff)
-
-– Sole-Erdwärmepumpe statt Grundwasser-Wärmepumpe (geschlossenes System bevorzugt wegen Garantie)
- 
-– keine Temperierung der Zuluft durch Sole-Luft-Wärmetauscher für die Lüftungsanlage 
-
-– kein vertraglich zugesicherter Innenraum Schallschutz möglich 
-
+- Holzfenster (Viebrockhaus verbaut nur Kunststoff) 
+- Sole-Erdwärmepumpe statt Grundwasser-Wärmepumpe (geschlossenes System bevorzugt wegen Garantie) 
+- keine Temperierung der Zuluft durch Sole-Luft-Wärmetauscher für die Lüftungsanlage 
+- kein vertraglich zugesicherter Innenraum Schallschutz möglich 
 

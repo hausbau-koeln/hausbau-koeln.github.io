@@ -7,7 +7,8 @@ categories: jekyll update
 
 *Dieser Text ist noch in Arbeit und wird laufend ergänzt! Letzte Änderung am 14.01.2023.*
 
-- Vermesser (Bäume! [Baumschutz]({% post_url 2022-10-25-Aussenanlagen-Baumschutz %}))
+- [Vermessungsbüro Seegers](https://www.vermessung-seegers.de/) 
+- (Bäume! [Baumschutz]({% post_url 2022-10-25-Aussenanlagen-Baumschutz %}))
 - Abriss 
 - Bodenprobe / Geotechnischer Bericht (Herr M. von Viebrockhaus) 
 - Kampfmittel (Auswertung Luftbilder / Sicherheitsdetektion)

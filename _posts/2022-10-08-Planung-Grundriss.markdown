@@ -15,6 +15,7 @@ Direkt gefolgt von der Lektüre diverser Webseiten mit Tipps für die Grundrissp
 
 Wir fertigten dann eine Lageplan des Grundstücks an, um zunächst Position und Ausrichtung des Gebäudes zu klären. 
 Danach folgten unzählige Skizzen mit Grundrissen, deren Version 1.1 lässt sich oben sehen. 
+Zur Visualsierung in 3D inkl. Sonnenlichtsimulation übertrugen wir dann den Plan nach [Sweet Home 3D](https://www.sweethome3d.com/), eine tolle kostenlose Planungssoftware.
 
 Version 1.0 enthielt noch einen Luftraum. Mit diesen ersten Skizzen und unserer, um Bauelemente und technische Ausstattung erweiterten Wunschliste besuchten wir einen Architekten. 
 Bei Dohmen Architekten wurden wir gut beraten und beauftragten daher die Ausarbeitung von Entwurfsskizzen. 

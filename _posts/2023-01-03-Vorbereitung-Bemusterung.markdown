@@ -7,10 +7,23 @@ categories: jekyll update
 
 *Dieser Text ist noch in Arbeit und wird laufend ergänzt! Letzte Änderung am 14.01.2023.*
 
-- Innenarchitektion Frau L. von Viebrockhaus
-- Checkliste 
-- Gute Verbesserungsvorschläge 
-- Sonderwünsche in Bearbeitung 
+- Innenarchitektin Frau L. von Viebrockhaus sehr hilfsbereit
+- Checkliste mit Hinweisen und Tipps zur Vorbereitung
+  - Deckeneinbautöpfe
+  - Position Waschmaschine und Trockner, Spüle
+  - Verfugung grau oder heller
+- Gute Verbesserungsvorschläge: 
+  - Komfortschwellen an Balkontüren
+  - zweiter Aussenwasserhahn
+  - Insektenschutz an den Fenstern
+  - über Fensterstürzen längs mauern statt Grenadierschicht 
+- Sonderwünsche in Bearbeitung:
+  - Anfrage für Haustür ausserhalb des Standards 
+  - Anfrage für Fensterfarbe perlbeige 
+  - Anfrage für Sondertreppe 
+  - Anfrage in Fassade eingelassene Regenwasserfallrohre 
+  - Anfrage Alternativen Balkongeländer
 
 Küchenplan (Installationsplan)
+
 Böden
