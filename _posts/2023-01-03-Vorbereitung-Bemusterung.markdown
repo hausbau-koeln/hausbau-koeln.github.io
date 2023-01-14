@@ -5,7 +5,7 @@ date:   2023-01-03 13:43:15 +0100
 categories: jekyll update
 ---
 
-*Dieser Text ist noch in Arbeit und wird laufend ergänzt! Letzte Änderung am {{ page.last_modified_at | date: '%d.%m.%Y' }}.* 
+*Dieser Text ist noch in Arbeit und wird laufend ergänzt! Letzte Änderung am 14.01.2023.*
 
 - Innenarchitektion Frau L. von Viebrockhaus
 - Checkliste 

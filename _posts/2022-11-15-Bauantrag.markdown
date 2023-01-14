@@ -5,7 +5,7 @@ date:   2022-11-15 13:43:15 +0100
 categories: jekyll update
 ---
 
-*Dieser Text ist noch in Arbeit und wird laufend ergänzt! Letzte Änderung am {{ page.last_modified_at | date: '%d.%m.%Y' }}.* 
+*Dieser Text ist noch in Arbeit und wird laufend ergänzt! Letzte Änderung am 14.01.2023.*
 
 - Baufenster, überbaubarer Bereich §34 Nachbarschaftsbebauung, Abstände, Bautiefe
 - Entwässerung (Kanalbefahrung, Rigole / Abstand, Sickermulde ca 8m², kein Abstand zum Gebäude nötig bei druckwasserdichtem Keller) 
