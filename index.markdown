@@ -11,6 +11,8 @@ carousels:
 
 Willkommen! 
 
+**Hinweis: Die Seite ist noch in Arbeit und alle Artikel werden laufend ergänzt!**
+
 # Startseite 
 
 {{ site.description }} 
