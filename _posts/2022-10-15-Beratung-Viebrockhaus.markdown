@@ -40,7 +40,7 @@ Ging
 Ging nicht 
 
 - Holzfenster (Viebrockhaus verbaut nur Kunststoff) 
-- Sole-Erdwärmepumpe statt Grundwasser-Wärmepumpe (geschlossenes System bevorzugt wegen Garantie) 
+- Grundwasser-Wärmepumpe (geschlossenes System Sole-Erdwärmepumpe bevorzugt wegen Garantie) 
 - keine Temperierung der Zuluft durch Sole-Luft-Wärmetauscher für die Lüftungsanlage 
 - kein vertraglich zugesicherter Innenraum Schallschutz möglich 
 

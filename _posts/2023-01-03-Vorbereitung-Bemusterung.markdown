@@ -3,6 +3,10 @@ layout: post
 title:  "Vorbereitung Bemusterung"
 date:   2023-01-03 13:43:15 +0100
 categories: jekyll update
+carousels:
+  - images: 
+    - image: /uploads/slider/tür_1_bemusterungshalle.jpg
+    - image: /uploads/slider/tür_2_bemusterungshalle.jpg    
 ---
 
 *Dieser Text ist noch in Arbeit und wird laufend ergänzt! Letzte Änderung am 14.01.2023.*

@@ -3,6 +3,9 @@ layout: post
 title:  "Bauantrag"
 date:   2022-11-15 13:43:15 +0100
 categories: jekyll update
+carousels:
+  - images: 
+    - image: /uploads/slider/revisionsschacht_bestand.jpg
 ---
 
 *Dieser Text ist noch in Arbeit und wird laufend ergänzt! Letzte Änderung am 14.01.2023.*
