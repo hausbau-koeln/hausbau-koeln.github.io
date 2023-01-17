@@ -5,17 +5,13 @@ date:   2022-10-15 13:43:15 +0100
 categories: jekyll update
 ---
 
-*Dieser Text ist noch in Arbeit und wird laufend ergänzt! Letzte Änderung am 14.01.2023.*
+*Dieser Text ist noch in Arbeit und wird laufend ergänzt! Letzte Änderung am 16.01.2023.*
 
-Frau Willems Vertriebsbüro Köln, Frau T. Entwurfsarchitektin 
-
-Typenhäuser Grundrisse passten nicht, individuell geplant
-
-Im Wesentlichen Bauteile und Module aus dem Katalogprogramm 
-
-Gute Tipps für den Grundriss, Raffstores und AluClip Fenster
-
-Mehr Wohnfläche als übliche Kataloghäuser daher passte die Dimensionierung der üblichen technischen Anlagen nicht
+Unsere erste Ansprechpartnerin war Frau Willems vom Vertriebsbüro Köln - fast immer erreichbar, sowohl per Email als auch telefonisch oder persönlich vor Ort. 
+Die angebotenen Typenhäuser-Grundrisse passten uns nicht vollständig, so dass wir individuell geplant haben. Dennoch haben wir im Wesentlich dann Bauteile und Module aus dem Katalogprogramm genommen. 
+Frau Willems gab uns gute Tipps zur Ausstattung etwa mit Raffstores und AluClip Fenstern. Daneben hat die Entwurfsarchitektin Frau T. auch noch Verfeinerungen am Grundriss vorgeschlagen. 
+Unser Haus hat mehr Wohnfläche als die üblichen Kataloghäuser, daher passte die Dimensionierung der üblichen technischen Anlagen teilweise nicht. 
+In der Regel konnte mit Unterstützung von Frau Willems eine Lösung gefunden werden. 
 
 Sonderwünsche Fenster bzgl. Höhe und Farbe (Einschub Fensterbemaßung)
 

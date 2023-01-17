@@ -18,5 +18,6 @@ carousels:
 - Baulasten (Grundbuch)
 - Altlasten (Auskunft)
 - Leitungspläne 
+- Hausanschlüsse Strom / Wasser Rheinenergie
 - siehe Kanalanschluss unter [Bauantrag]({% post_url 2022-11-15-Bauantrag %})
 - Grundstück-spezifische-Arbeiten (GSA) Angebot (von Viebrockhaus) 
