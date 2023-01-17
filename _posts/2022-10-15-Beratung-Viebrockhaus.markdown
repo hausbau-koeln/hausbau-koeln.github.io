@@ -7,11 +7,11 @@ categories: jekyll update
 
 *Dieser Text ist noch in Arbeit und wird laufend ergänzt! Letzte Änderung am 16.01.2023.*
 
-Unsere erste Ansprechpartnerin war Frau Willems vom Vertriebsbüro Köln - fast immer erreichbar, sowohl per Email als auch telefonisch oder persönlich vor Ort. 
+Unsere erste Ansprechpartnerin war Frau Willems vom Vertriebsbüro Köln - fast immer erreichbar, auch bei der 100. Nachfrage und geduldig bei Extrawünschen. 
 Die angebotenen Typenhäuser-Grundrisse passten uns nicht vollständig, so dass wir individuell geplant haben. Dennoch haben wir im Wesentlich dann Bauteile und Module aus dem Katalogprogramm genommen. 
 Frau Willems gab uns gute Tipps zur Ausstattung etwa mit Raffstores und AluClip Fenstern. Daneben hat die Entwurfsarchitektin Frau T. auch noch Verfeinerungen am Grundriss vorgeschlagen. 
 Unser Haus hat mehr Wohnfläche als die üblichen Kataloghäuser, daher passte die Dimensionierung der üblichen technischen Anlagen teilweise nicht. 
-In der Regel konnte mit Unterstützung von Frau Willems eine Lösung gefunden werden. 
+In der Regel konnte mit Unterstützung von Frau Willems, die beharrlich nachhakte, eine Lösung gefunden werden. 
 
 Sonderwünsche Fenster bzgl. Höhe und Farbe (Einschub Fensterbemaßung)
 
